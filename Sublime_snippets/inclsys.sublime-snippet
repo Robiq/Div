@@ -1,0 +1,14 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+#include <sys/types.h>
+#include <sys/wait.h>
+#include <unistd.h>
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>inclsys</tabTrigger>
+  <description>Includes sys types</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.c</scope>
+</snippet>

@@ -1,0 +1,2 @@
+Finnes her:
+C:\Users\Robin\AppData\Roaming\Sublime Text 2\Packages\User\inclsys.sublime-snippet
